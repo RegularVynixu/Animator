@@ -1,4 +1,4 @@
-local pathToGithub = "https://raw.githubusercontent.com/xhayper/Animator/main/Source/"
+local pathToGithub = "https://raw.githubusercontent.com/RegularVynixu/Animator/main/Source/"
 
 local sub = string.sub
 
